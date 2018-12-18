@@ -32,3 +32,17 @@ takeANumber(katzDeliLine,"Matz");
 currentLine(katzDeliLine);
 nowServing(katzDeliLine);
 currentLine(katzDeliLine);
+var count=0;
+function takeAnumber2(num1,numn){
+ count++;
+ return count
+ 
+
+}
+var count1=0;
+function nowserving(newvalue){
+  var newarray=[];
+if(!newvalue.length){
+  return "empty"+newarray;
+}
+}
